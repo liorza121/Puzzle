@@ -16,3 +16,11 @@ public class Board {
         return Arrays.deepHashCode(tiles);
     }
 }
+/**
+ * To do:
+ * add a 2D matrix of tiles as a field.
+ * add a constructor
+ * research Arrays.deepHashCode to understand how to implement the board
+ * add a moveTile method
+ * add directrion enum
+ */

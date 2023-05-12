@@ -14,3 +14,9 @@ public class State {
         return board.hashCode();
     }
 }
+/**
+ * To do:
+ *  add constructor
+ *  add isGoal method
+ *  add actions method
+ */

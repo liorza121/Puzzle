@@ -14,3 +14,8 @@ public class Tile {
         return Integer.hashCode(value);
     }
 }
+/**
+ * To do:
+ *  add constructor
+ *  add value field
+ */
